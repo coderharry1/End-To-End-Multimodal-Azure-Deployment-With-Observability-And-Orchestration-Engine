@@ -1,5 +1,5 @@
 # End-To-End-Multimodal-Azure-Deployment-With-Observability-And-Orchestration-Engine
-Built a production-grade Video Compliance QA pipeline using LangGraph and RAG to audit multimodal content against regulatory standards. The system integrates Azure Video Indexer, AI Search, and GPT-4o to generate structured compliance reports with end-to-end observability via LangSmith and Application Insights.
+Building an AI-powered compliance auditing platform that automatically evaluates video advertisements against regulatory standards. The system enables organisations to detect violations, reduce manual review effort, and ensure faster, scalable compliance decisions.
 
 ## Description
 This project implements an end-to-end, production-oriented Video Compliance QA system that automates regulatory auditing of unstructured video content.
